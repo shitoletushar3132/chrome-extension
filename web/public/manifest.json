@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "translatore Whatapp messages",
+  "version": "1.0.1",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["http://*/*", "https://*/*"]
+}
