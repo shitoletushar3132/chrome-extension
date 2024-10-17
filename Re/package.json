@@ -1,9 +1,8 @@
 {
-  "name": "react",
+  "name": "re",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "/view",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -12,8 +11,7 @@
   },
   "dependencies": {
     "react": "^18.3.1",
-    "react-dom": "^18.3.1",
-    "web-push": "^3.6.7"
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",
